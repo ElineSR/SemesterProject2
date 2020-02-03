@@ -1,0 +1,466 @@
+{
+  "Id": 1303,
+  "Name": "Daenerys Targaryen",
+  "IsFemale": true,
+  "Culture": "Valyrian",
+  "Titles": [
+    "Queen of the Andals and the Rhoynar and the First Men, Lord of the Seven Kingdoms",
+    "Khaleesi of the Great Grass Sea",
+    "Breaker of Shackles/Chains",
+    "Queen of Meereen",
+    "Princess of Dragonstone"
+  ],
+  "Aliases": [
+    "Dany",
+    "Daenerys Stormborn",
+    "The Unburnt",
+    "Mother of Dragons",
+    "Mother",
+    "Mhysa",
+    "The Silver Queen",
+    "Silver Lady",
+    "Dragonmother",
+    "The Dragon Queen",
+    "The Mad King's daughter"
+  ],
+  "Born": "In 284 AC, at Dragonstone",
+  "Died": "",
+  "Father": null,
+  "Mother": null,
+  "Spouse": 1346,
+  "Children": [],
+  "Allegiances": [
+    378
+  ],
+  "Books": [
+    5
+  ],
+  "PovBooks": [
+    1,
+    2,
+    3,
+    8
+  ],
+  "PlayedBy": [
+    "Emilia Clarke"
+  ],
+  "TvSeries": [
+    "Season 1",
+    "Season 2",
+    "Season 3",
+    "Season 4",
+    "Season 5",
+    "Season 6"
+  ]
+},
+{
+  "Id": 583,
+  "Name": "Jon Snow",
+  "IsFemale": false,
+  "Culture": "Northmen",
+  "Titles": [
+    "Lord Commander of the Night's Watch"
+  ],
+  "Aliases": [
+    "Lord Snow",
+    "Ned Stark's Bastard",
+    "The Snow of Winterfell",
+    "The Crow-Come-Over",
+    "The 998th Lord Commander of the Night's Watch",
+    "The Bastard of Winterfell",
+    "The Black Bastard of the Wall",
+    "Lord Crow"
+  ],
+  "Born": "In 283 AC",
+  "Died": "",
+  "Father": null,
+  "Mother": null,
+  "Spouse": null,
+  "Children": [],
+  "Allegiances": [
+    362
+  ],
+  "Books": [
+    5
+  ],
+  "PovBooks": [
+    1,
+    2,
+    3,
+    8
+  ],
+  "PlayedBy": [
+    "Kit Harington"
+  ],
+  "TvSeries": [
+    "Season 1",
+    "Season 2",
+    "Season 3",
+    "Season 4",
+    "Season 5",
+    "Season 6"
+  ]
+},
+{
+  "Id": 148,
+  "Name": "Arya Stark",
+  "IsFemale": true,
+  "Culture": "Northmen",
+  "Titles": [
+    "Princess"
+  ],
+  "Aliases": [
+    "Arya Horseface",
+    "Arya Underfoot",
+    "Arry",
+    "Lumpyface",
+    "Lumpyhead",
+    "Stickboy",
+    "Weasel",
+    "Nymeria",
+    "Squan",
+    "Saltb",
+    "Cat of the Canaly",
+    "Bets",
+    "The Blind Girh",
+    "The Ugly Little Girl",
+    "Mercedenl",
+    "Mercye"
+  ],
+  "Born": "In 289 AC, at Winterfell",
+  "Died": "",
+  "Father": null,
+  "Mother": null,
+  "Spouse": null,
+  "Children": [],
+  "Allegiances": [
+    362
+  ],
+  "Books": [],
+  "PovBooks": [
+    1,
+    2,
+    3,
+    5,
+    8
+  ],
+  "PlayedBy": [
+    "Maisie Williams"
+  ],
+  "TvSeries": [
+    "Season 1",
+    "Season 2",
+    "Season 3",
+    "Season 4",
+    "Season 5",
+    "Season 6"
+  ]
+},
+{
+  "Id": 1442,
+  "Name": "Gregor Clegane",
+  "IsFemale": false,
+  "Culture": "",
+  "Titles": [
+    "Ser",
+    "Knight of Clegane's Keep"
+  ],
+  "Aliases": [
+    "The Mountain That Rides",
+    "The Mountain",
+    "The Great Dog"
+  ],
+  "Born": "In 265 AC or 266 AC",
+  "Died": "In 300 AC",
+  "Father": null,
+  "Mother": null,
+  "Spouse": null,
+  "Children": [],
+  "Allegiances": [
+    72,
+    229
+  ],
+  "Books": [
+    1,
+    2,
+    3,
+    5,
+    8
+  ],
+  "PovBooks": [],
+  "PlayedBy": [
+    "Conan Stevens",
+    "Ian Whyte",
+    "Hafþór Júlíus Björnsson"
+  ],
+  "TvSeries": [
+    "Season 1",
+    "Season 2",
+    "Season 4",
+    "Season 5",
+    "Season 6"
+  ]
+},
+{
+  "Id": 238,
+  "Name": "Cersei Lannister",
+  "IsFemale": true,
+  "Culture": "Westerman",
+  "Titles": [
+    "Light of the West",
+    "Queen Dowager",
+    "Protector of the Realm",
+    "Lady of Casterly Rock",
+    "Queen Regent"
+  ],
+  "Aliases": [
+    "Brotherfuckerthe bitch queen"
+  ],
+  "Born": "In 266 AC, at Casterly Rock",
+  "Died": "",
+  "Father": null,
+  "Mother": null,
+  "Spouse": 901,
+  "Children": [],
+  "Allegiances": [
+    229
+  ],
+  "Books": [
+    1,
+    2,
+    3
+  ],
+  "PovBooks": [
+    5,
+    8
+  ],
+  "PlayedBy": [
+    "Lena Headey"
+  ],
+  "TvSeries": [
+    "Season 1",
+    "Season 2",
+    "Season 3",
+    "Season 4",
+    "Season 5",
+    "Season 6"
+  ]
+},
+{
+  "Id": 1052,
+  "Name": "Tyrion Lannister",
+  "IsFemale": false,
+  "Culture": "",
+  "Titles": [
+    "Acting Hand of the King (former)",
+    "Master of Coin (former)"
+  ],
+  "Aliases": [
+    "The Imp",
+    "Halfman",
+    "The boyman",
+    "Giant of Lannister",
+    "Lord Tywin's Doom",
+    "Lord Tywin's Bane",
+    "Yollo",
+    "Hugor Hill",
+    "No-Nose",
+    "Freak",
+    "Dwarf"
+  ],
+  "Born": "In 273 AC, at Casterly Rock",
+  "Died": "",
+  "Father": null,
+  "Mother": null,
+  "Spouse": 2044,
+  "Children": [],
+  "Allegiances": [
+    229
+  ],
+  "Books": [
+    5,
+    11
+  ],
+  "PovBooks": [
+    1,
+    2,
+    3,
+    8
+  ],
+  "PlayedBy": [
+    "Peter Dinklage"
+  ],
+  "TvSeries": [
+    "Season 1",
+    "Season 2",
+    "Season 3",
+    "Season 4",
+    "Season 5",
+    "Season 6"
+  ]
+},
+{
+  "Id": 957,
+  "Name": "Sansa Stark",
+  "IsFemale": true,
+  "Culture": "Northmen",
+  "Titles": [
+    "Princess"
+  ],
+  "Aliases": [
+    "Little bird",
+    "Alayne Stone",
+    "Jonquil"
+  ],
+  "Born": "In 286 AC, at Winterfell",
+  "Died": "",
+  "Father": null,
+  "Mother": null,
+  "Spouse": 1052,
+  "Children": [],
+  "Allegiances": [
+    362,
+    10
+  ],
+  "Books": [
+    8
+  ],
+  "PovBooks": [
+    1,
+    2,
+    3,
+    5
+  ],
+  "PlayedBy": [
+    "Sophie Turner"
+  ],
+  "TvSeries": [
+    "Season 1",
+    "Season 2",
+    "Season 3",
+    "Season 4",
+    "Season 5",
+    "Season 6"
+  ]
+},
+{
+  "Id": 339,
+  "Name": "Eddard Stark",
+  "IsFemale": false,
+  "Culture": "Northmen",
+  "Titles": [
+    "Lord of Winterfell",
+    "Warden of the North",
+    "Hand of the King",
+    "Protector of the Realm",
+    "Regent"
+  ],
+  "Aliases": [
+    "Ned",
+    "The Ned",
+    "The Quiet Wolf"
+  ],
+  "Born": "In 263 AC, at Winterfell",
+  "Died": "In 299 AC, at Great Sept of Baelor in King's Landing",
+  "Father": null,
+  "Mother": null,
+  "Spouse": 232,
+  "Children": [],
+  "Allegiances": [
+    362
+  ],
+  "Books": [
+    11,
+    2,
+    3,
+    5,
+    8
+  ],
+  "PovBooks": [
+    1
+  ],
+  "PlayedBy": [
+    "Sean Bean",
+    "Sebastian Croft",
+    "Robert Aramayo"
+  ],
+  "TvSeries": [
+    "Season 1",
+    "Season 6"
+  ]
+},
+{
+  "Id": 565,
+  "Name": "Joffrey Baratheon",
+  "IsFemale": false,
+  "Culture": "",
+  "Titles": [
+    "King of the Andals, the Rhoynar and the First Men",
+    "Lord of the Seven Kingdoms",
+    "Protector of the Realm"
+  ],
+  "Aliases": [
+    "Joffrey the Illborn",
+    "The Young Usurper",
+    "Aerys the Third",
+    "Joffrey-called-Baratheon"
+  ],
+  "Born": "286 AC, at King's Landing",
+  "Died": "300 AC, at Red Keep, King's Landing",
+  "Father": 901,
+  "Mother": 238,
+  "Spouse": 16,
+  "Children": [],
+  "Allegiances": [],
+  "Books": [
+    1,
+    2,
+    3,
+    5,
+    8
+  ],
+  "PovBooks": [],
+  "PlayedBy": [
+    "Jack Gleeson"
+  ],
+  "TvSeries": [
+    "Season 1",
+    "Season 2",
+    "Season 3",
+    "Season 4"
+  ]
+},
+{
+  "Id": 1346,
+  "Name": "Drogo",
+  "IsFemale": false,
+  "Culture": "Dothraki",
+  "Titles": [
+    "Khal"
+  ],
+  "Aliases": [
+    "Great Rider",
+    "Great Khal"
+  ],
+  "Born": "In or around 267 AC",
+  "Died": "In 298 AC, at Dothraki sea",
+  "Father": null,
+  "Mother": null,
+  "Spouse": 1303,
+  "Children": [],
+  "Allegiances": [],
+  "Books": [
+    1,
+    2,
+    3,
+    8
+  ],
+  "PovBooks": [],
+  "PlayedBy": [
+    "Jason Momoa"
+  ],
+  "TvSeries": [
+    "Season 1",
+    "Season 2"
+  ]
+},
