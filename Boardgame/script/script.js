@@ -1,16 +1,5 @@
 
-//https://github.com/ElineSR/SemesterProject2/blob/master/Boardgame/script/characters10.json
-  
-
-// fetch('https://api.myjson.com/bins/9dhnw')
-//   .then((response) => {
-//     return response.json()
-//   })
-//   .then(jsonResult => {
-//     console.log(jsonResult);
-//   })
-
-
+//Api I made for my Json file of GOT characters.
 
 fetch('https://api.myjson.com/bins/cm06y')
   .then(result => result.json())
